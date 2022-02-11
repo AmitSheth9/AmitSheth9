@@ -2,7 +2,7 @@
 <img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/AmitSheth9/lab-auth-bouncer/blob/dev/assets/Simple%20Black%20and%20White%20Personal%20Branding%20Digital%20Marketing%20LinkedIn%20Banner.png" />
 ### Hi there 👋
 
-[![AmitSheth9's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![AmitSheth9's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsheth9)](https://github.com/amitsheth9/github-readme-stats)
 <!--
 **AmitSheth9/AmitSheth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
