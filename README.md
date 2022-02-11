@@ -1,5 +1,6 @@
-### Hi there 👋
 
+<img align="center" alt="Logo" style= "width: 100%;" src= "https://github.com/AmitSheth9/lab-auth-bouncer/blob/dev/assets/linkedin:slack%20pic.png" />
+### Hi there 👋
 <!--
 **AmitSheth9/AmitSheth9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
